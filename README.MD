@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-> `BAiLyEs` is a powerful enhancement of the Baileys library designed to simplify WhatsApp automation.  
+> `bileys` is a powerful enhancement of the Baileys library designed to simplify WhatsApp automation.  
 > Clean API design, interactive messaging, pairing controls, and optimized performance for developers.
 
 > **Update Notice**  

@@ -7,7 +7,7 @@
 ---
 
   <p>
-    <a href="https://whatsapp.com/channel/0029VapYyKEGufIpsd3Rja2C">
+    <a href="https://whatsapp.com/channel/0029VbAwdIyJJhzRMpjUcS3P">
       <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
     </a>
   </p>
@@ -23,7 +23,7 @@
 
 > **Update Notice**  
 > All updates are now posted exclusively in the WhatsApp channel.  
-> <a href="https://whatsapp.com/channel/0029VapYyKEGufIpsd3Rja2C">
+> <a href="https://whatsapp.com/channel/0029VbAwdIyJJhzRMpjUcS3P">
       <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
     </a>
 
